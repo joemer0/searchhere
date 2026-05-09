@@ -228,5 +228,10 @@ const pages = [
     title: "Tiling Over Fresh Screed in Wet Conditions",
     url: "https://tilerescue.atlassian.net/wiki/external/MDBkNDkwY2I0NGFlNDFjM2JhOGRiNWY2NzRkNGM0ZTU",
     tags: ["#TileRescue #ScreedPrep #TilingBestPractice #AvoidCallbacks #ConstructionMistakes #TileAdhesive #Megapoxy #ExternalTiling #TradeTips #DoItOnceDoItRight #FranchiseTraining #SiteDecisions"]
+  },
+  {
+    title: "Tiling Over Fresh Screed in Wet Conditions",
+    url: "https://tilerescue.atlassian.net/wiki/external/MDBkNDkwY2I0NGFlNDFjM2JhOGRiNWY2NzRkNGM0ZTU",
+    tags: ["#TileRescue #ScreedPrep #TilingBestPractice #AvoidCallbacks #ConstructionMistakes #TileAdhesive #Megapoxy #ExternalTiling #TradeTips #DoItOnceDoItRight #FranchiseTraining #SiteDecisions"]
   }
 ];
